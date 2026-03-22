@@ -4,11 +4,11 @@ To use Friday, power the Jetson Orin Nano and connect the microphone and speaker
 I created this project to explore edge AI and build a standalone assistant that does not rely on cloud services. It also helped me learn about hardware integration and embedded systems design.
 ### Full CAD Assembly
 
-![CAD Model](images/cad.png)
+![CAD Model](Images/cad.png)
 
 ### Wiring Diagram
 
-![Wiring Diagram](images/wiring.png)
+![Wiring Diagram](Images/wiring.png)
 
 | Item             | Link                                                                                                     | Quantity | Notes        |
 | ---------------- | -------------------------------------------------------------------------------------------------------- | -------- | ------------ |
